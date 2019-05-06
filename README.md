@@ -11,6 +11,6 @@ The server should start on localhost, port 3000 (http://localhost:3000)
 
 ## Screenshots
 
-![Alt Main Screen](https://github.com/caliskimmer/MyReads/src/screenshots/MyReadsMainScreen.png "Main Screen")
+![Main Screen](src/screenshots/MyReadsMainScreen.png "Main Screen")
 
-![Alt Search Screen](https://github.com/caliskimmer/MyReads/src/screenshots/MyReadsSearchScreen.png "Search Screen")
+![Search Screen](src/screenshots/MyReadsSearchScreen.png "Search Screen")
