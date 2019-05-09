@@ -6,7 +6,7 @@ This project is the completed version of the Udacity project MyReads, which test
 
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
-* see a live version of this app ![here](http://tranquil-observation.surge.sh "App Link")
+* see a live version of this app [here](http://tranquil-observation.surge.sh)
 
 ### Search Terms
 
